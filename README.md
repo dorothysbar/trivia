@@ -8,14 +8,20 @@
 
 ## Format
 
-20 Questions
-1 Tie Breaker/Guess the number
+1. Do the first 10 questions.
+2. The host collects papers. Then we have an activity like an anagram while the host grades.
+3. Papers are handed back out and we do the next 10 questions.
+
+Breaking it up gives the host a break, gives everyone a chance to have their super funny team names read, builds tension for the 2nd half, etc.
 
 ## Writing Questions
 
+    20 Questions
+    --
     1 Women's health/anatomy question
     1 Astrology question
     1 Tarot card question. Comprehensive Tarot Card info can be found at https://tarostarot.com/tarot-card-meanings
+    1 Tie Breaker/Guess the number
 
 Other question inspiration:
 * Pride flags
