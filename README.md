@@ -13,9 +13,9 @@
 
 ## Writing Questions
 
-1 Women's health/anatomy question
-1 Astrology question
-1 Tarot card question. Comprehensive Tarot Card info can be found at https://tarostarot.com/tarot-card-meanings
+    1 Women's health/anatomy question
+    1 Astrology question
+    1 Tarot card question. Comprehensive Tarot Card info can be found at https://tarostarot.com/tarot-card-meanings
 
 Other question inspiration:
 * Pride flags
